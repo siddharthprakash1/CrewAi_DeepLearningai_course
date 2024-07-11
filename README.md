@@ -1,6 +1,8 @@
 ## Social Media
 [Twitter Post](https://x.com/_siddharth11_/status/1811319522139508867)
 
+![Watch Me Code](d.gif)
+
 # Projects 
 
 All projects developed during the Crewai course by Joao Moura on DeepLearning.ai.
